@@ -11,6 +11,7 @@ div.highlighter-rouge, figure.highlight {
   background-color: var(--global-code-background-color);
   box-shadow: $box-shadow;
   font-size: $type-size-4;
+  font-weight: 600;
 
   &:before {
     position: absolute;
@@ -30,7 +31,7 @@ div.highlighter-rouge, figure.highlight {
     margin: 0;
     font-family: $monospace;
     font-size: $type-size-6;
-    line-height: 1.8;
+    line-height: 1.4; // make it tight
   }
 }
 
