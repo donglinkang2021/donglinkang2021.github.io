@@ -5,6 +5,11 @@ permalink: /posts/2025/04/vllm-usage/
 tags:
   - usage
 ---
+
+**TL;DR:** This document provides a quick guide on using `vllm` with `huggingface` models, including setting up environment variables, downloading models, starting the `vllm` service, and testing the OpenAI API. It also includes commonly used scripts for these tasks.
+
+<!--more-->
+
 这里放一些平时使用huggingface和vllm最常用的脚本在这里：
 
 - [环境变量设置](#环境变量设置)

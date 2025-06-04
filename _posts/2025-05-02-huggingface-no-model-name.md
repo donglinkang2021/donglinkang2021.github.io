@@ -6,6 +6,10 @@ tags:
   - bug-fix
 ---
 
+**TL;DR:** This post explains how to handle situations where a model cannot be downloaded from Hugging Face using `model_name`, often due to the model not being registered. It provides a method to clone the model repository and manually set up the tokenizer.
+
+<!--more-->
+
 hf上有些模型无法正常下载通过 model_name下来应该是没有注册这个模型的原因，此时的一般方法是通过
 
 ```bash

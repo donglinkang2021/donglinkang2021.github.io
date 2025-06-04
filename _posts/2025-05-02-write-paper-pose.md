@@ -1,10 +1,14 @@
 ---
-title: '写论文的一个姿势'
+title: '写论文的姿势思考'
 date: 2025-05-02
 permalink: /posts/2025/05/write-paper-pose/
 tags:
   - notes
 ---
+
+**TL;DR:** Write papers iteratively, focusing on incremental improvements in each version. This approach allows for continuous feedback and reduces the risk of significant rework later on. Good papers are the result of revisions.
+
+<!--more-->
 
 - 先有后好
 - 写论文的正确姿势

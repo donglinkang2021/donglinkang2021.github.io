@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This post documents the process of setting up a Docker container with Miniconda, troubleshooting common issues like network errors during image pulling, and configuring Docker to use image accelerators. It also covers creating a new container with GPU support, shared memory, and volume mounting, along with steps to activate the environment and run code within the container.
+
+<!--more-->
+
 ## 配置环境
 
 先拉取镜像

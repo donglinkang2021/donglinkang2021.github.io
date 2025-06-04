@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This post records my experience using [AcademicPages](https://github.com/academicpages/academicpages.github.io), including Docker local preview environment configuration, some notes, and some understanding of the Markdown file head.
+
+<!--more-->
+
 记录自己使用 [AcademicPages](https://github.com/academicpages/academicpages.github.io) 的一些经验。
 
 ## Docker 本地预览环境配置
@@ -75,6 +79,7 @@ docker compose up
 2. 把 `_config.yml` 中的 `url:` 改为 `http://localhost:4000` 可以在本地预览的时候正确跳转，否则是直接跳转到 `https://donglinkang2021.github.io` 的对应目录下，看不到修改；**当然改了之后要记得改回来**。
 3. 执行`docker compose up`会提示说 `Server address: http://0.0.0.0:4000/`，但实际上我们访问的是 `http://localhost:4000`，所以不需要关心这个提示。
 4. 对于文档中的图片，建议使用相对路径，统一放在 `/images/assets/` 目录下（而不要只是放在markdown的相同的一个根目录就好，如果是`./assets`这种会索引不到），这样在本地预览和发布到 GitHub Pages 上都能正确显示。
+5. 在写 blog 的时候，建议写完之后在最开头添加一个 `<!--more-->`，这样可以在首页上只显示文章的摘要（自己用`gemini-flash`生成的），而不是全文。自己改了初始`_config.yml`中的 `excerpt_separator: <!--more-->`，这样就可以解决显示太长的问题了。
 
 ## 对于 AcademicPages 中 Markdown 文件Head 的一些理解
 

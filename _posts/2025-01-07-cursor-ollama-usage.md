@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This guide details how to set up Cursor with Ollama for local LLM usage, including installing Chocolatey and ngrok on Windows, configuring Ollama, and integrating it with Cursor. It also covers using the qwen API as an alternative.
+
+<!--more-->
+
 > 由于有时候我们处于局域网的环境，不希望任何数据需要挂梯子出去，所以就可以采取全局域网的形式来写代码，也可以补全，这是比较心仪的状态。
 
 - [windows安装choco](#windows安装choco)

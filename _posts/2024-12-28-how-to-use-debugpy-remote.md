@@ -6,6 +6,9 @@ tags:
   - usage
 ---
 
+**TL;DR:** This post explains how to use `debugpy` to debug Python scripts on a remote server using Visual Studio Code (VSCode). It covers installation, configuration of the VSCode launch settings, and how to connect to the remote script for debugging.
+
+<!--more-->
 
 1. Install debugpy
 

@@ -6,6 +6,10 @@ tags:
   - notes
 ---
 
+**TL;DR:** This guide provides a step-by-step approach to setting up a local TeX Live environment and configuring the LaTeX Workshop extension in VSCode for a smooth LaTeX writing experience. It emphasizes offline installation of TeX Live to avoid common online installation issues and offers a tested configuration for VSCode to compile LaTeX projects efficiently.
+
+<!--more-->
+
 ## 安装texlive
 
 > [!NOTE] 避雷在线下载

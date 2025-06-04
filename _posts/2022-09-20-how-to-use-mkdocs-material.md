@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This article is about how to use mkdocs-material to build a blog. It introduces how to install and configure the mermaid plugin and how to use mathjax to display mathematical formulas.
+
+<!--more-->
+
 > 感觉自己的学习的方向得开始有所改变了，看博客只能慢慢开始当乐呵乐呵，真正想会用得去看原文档，学习文档是相当快的方法，再者我们要学习别人仓库里的代码，到达大佬的程度之后，我们就看可以直接学习论文本身了，设计框架，在一步步细化，自己搭建自己的大厦hiahia...
 > 这个博客纯当是自己学习文档的开始吧。
 

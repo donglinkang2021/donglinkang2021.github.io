@@ -6,6 +6,9 @@ tags:
   - usage
 ---
 
+**TL;DR:** This post provides a guide on how to set up and use Hugging Face and Ollama, including environment variable configurations, cache directory changes, and Ollama model management.
+
+<!--more-->
 
 ## 0. COMMON
 

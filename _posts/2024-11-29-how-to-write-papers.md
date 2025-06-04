@@ -6,6 +6,10 @@ tags:
   - notes
 ---
 
+**TL;DR:** This article summarizes Freeman's CVPR2020 talk on writing good papers, emphasizing clear organization (Introduction, Related Work, Main Idea, Algorithm, Experiments, Discussion), concise writing, reader-focused content, honest tone, and avoiding common reasons for rejection. Prioritize contribution, acknowledge shortcomings, and ensure results are well-supported.
+
+<!--more-->
+
 本文是Freeman在CVPR2020上的[分享](http://6.8300.csail.mit.edu/sp22/lectures/L23/ch414243.pdf)
 
 > Only good papers count.

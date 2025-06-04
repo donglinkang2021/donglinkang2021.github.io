@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This guide explains how to create a Python package and build it into a `.whl` (Wheel) file, which is a binary distribution format for Python packages. It includes steps for setting up the package structure, writing the `setup.py` file, and building the wheel.
+
+<!--more-->
+
 ```bash
 python -m venv venv
 source venv/bin/activate

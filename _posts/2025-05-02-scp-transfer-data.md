@@ -5,6 +5,11 @@ permalink: /posts/2025/05/scp-transfer-data/
 tags:
   - usage
 ---
+
+**TL;DR:** This post explains how to use `scp` to transfer data between servers, detailing its behavior when copying directories and handling existing files.
+
+<!--more-->
+
 scp转移数据
 
 ```bash

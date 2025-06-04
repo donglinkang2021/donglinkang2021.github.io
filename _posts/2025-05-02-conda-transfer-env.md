@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This guide explains how to transfer a conda environment from a server with internet access to one without, using `conda-pack` to create a portable environment package.
+
+<!--more-->
+
 需求：将有网的服务器打包conda环境迁移到无网的环境
 
 ```bash

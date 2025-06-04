@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** Use `du -h --max-depth=1 . | sort -hr | head -n 10` to quickly view the top 10 largest directories in the current directory.
+
+<!--more-->
+
 要对 `du -h --max-depth=1 .` 的输出按大小排序，可以使用以下命令组合：
 
 ```bash

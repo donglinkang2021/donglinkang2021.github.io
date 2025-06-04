@@ -6,6 +6,10 @@ tags:
   - notes
 ---
 
+**TL;DR:** Research isn't about innate brilliance but consistent effort and strategic direction. Focus on enjoying your work to foster dedication, and remember to steer your efforts effectively. Simplify problems to understand them deeply, and communicate progress by detailing what you've ruled out, not just what's failing. Develop a "toy model" to build intuition, and cultivate a unique research brand by excelling in specific areas.
+
+<!--more-->
+
 > 读一读[How to do research](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf) 更多类似的内容可以看[Course notes for MIT EECS 6.819/6.869 Spring 2022](http://6.8300.csail.mit.edu/sp22/lectures/L23/ch414243.pdf)
 
 积累一些好词

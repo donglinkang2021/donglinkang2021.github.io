@@ -6,6 +6,10 @@ tags:
   - usage
 ---
 
+**TL;DR:** This post documents my experiences using remote servers, including generating SSH keys, cloning private GitHub repositories, using tmux for background processes, checking disk space, configuring Hugging Face, and speeding up pip installations with mirror sources.
+
+<!--more-->
+
 ## 在服务器中生成自己的ssh key并克隆自己的私有github仓库
 
 ```bash
@@ -164,6 +168,21 @@ pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trus
 腾讯源：http://mirrors.cloud.tencent.com/pypi/simple
 华为镜像源：https://repo.huaweicloud.com/repository/pypi/simple/
 ```
+
+## 连接自己台式机 workstation
+
+这里可以远程连接自己的台式机, 已经在台式机上开启了ssh服务。
+
+```bash
+ssh <user>@<workstation-host>
+# 输入密码即可
+```
+
+windows台式机开启ssh服务的方法：
+
+1. 按下`Win + R`键打开“运行”对话框。
+2. 输入`services.msc`并按回车键。
+3. 在服务列表中查找`OpenSSH SSH Server`服务，右键启动。
 
 ## 参考
 
