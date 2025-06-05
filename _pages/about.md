@@ -39,3 +39,11 @@ My current research interests include Reinforcement Learning for Large Language 
 - 2022-2023, Deputy Director, Intelligent Sensing Club, School of Information and Electronics, Beijing Institute of Technology
 - 2023-2024, [China Intelligent Robot Fighting Competition, Team Member](http://robo-maker.org/), Second Prize
 - 2023-2024, [Huawei Cloud HCSD](https://zhuanlan.zhihu.com/p/657339225), Campus Ambassador
+
+## 📫 Contact Me
+
+Feel free to reach out and connect!
+
+<div align="center">
+<img src="../images/wechat.jpg" alt="WeChat QR Code" width="300"/>
+</div>
