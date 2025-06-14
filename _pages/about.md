@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Linkang Dong (董林康)"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an undergraduate student at Beijing Institute of Technology, majoring in Computer Science and Technology (Expected Graduation: 2025.6).
+Hi! I'm **Linkang Dong** (董林康), a passionate undergraduate student at the Beijing Institute of Technology, majoring in Computer Science and Technology. I am currently exploring the fields of Reinforcement Learning for Large Language Models (RL4LLM) and Embodied AI.
 
-My current research interests include Reinforcement Learning for Large Language Models (RL4LLM) and Embodied AI.
+## ✨ Recent Activities
+
+- I have recently written a survey on LLM Policy Gradient. [[PDF]](/files/202505-Survey-on-LLM-Policy-Gradient.pdf)
+- I make a Reinforcement Learning Notes website, based on the course [Mathmatical-Foundation-of-Reinforcement-Learning](https://www.bilibili.com/video/BV1sd4y167NS/) and the book [Reinforcement Learning An Introduction](http://incompleteideas.net/book/RLbook2020.pdf). [RL-Note](https://donglinkang2021.github.io/RL-Note/)
 
 ## 📖 Education
 

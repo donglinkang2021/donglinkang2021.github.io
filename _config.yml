@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Linkdom"
 description              : &description "personal description"
-url                      : https://donglinkang2021.github.io # http://localhost:4000 # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://donglinkang2021.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "donglinkang2021/donglinkang2021.github.io"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Linkang Dong (董林康)"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Focusing on RL4LLM and Embodied AI."
+  bio              : "Final year undergraduate student, like deep neural nets, focusing on RL4LLM and Embodied AI."
   location         : "Beijing, China"
-  employer         : "Beijing Institute of Technology"
+  employer         : "BIT, SII"
   uri              : # URL
   email            : "donglinkang2021@163.com" 
 

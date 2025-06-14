@@ -66,8 +66,15 @@ git diff HEAD^ HEAD _config.yml
 开始构建：
 
 ```bash
+# 可以先pull ruby image, 这里自己用了镜像
+docker pull docker.1ms.run/ruby:3.2
+# 所以也要在Dockerfile中的FROM改为这个镜像
 docker compose down
+# 第一次可以执行这个命令来清除之前的缓存
 docker compose build --no-cache
+# 之后如果有些包没下载的话可以不重复下载，接着之前来做
+docker compose build
+# 启动 AcademicPages 的 Jekyll 环境
 docker compose up
 ```
 
