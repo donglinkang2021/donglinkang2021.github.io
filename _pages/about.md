@@ -7,46 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm **Linkang Dong** (董林康), a passionate undergraduate student at the Beijing Institute of Technology, majoring in Computer Science and Technology. I am currently exploring the fields of Reinforcement Learning for Large Language Models (RL4LLM) and Embodied AI.
+Hi! I'm **Linkang Dong** (董林康), a CS PhD student at Beijing Institute of Technology & Shanghai Innovation Institute. I am currently exploring the fields of Reinforcement Learning for Large Language Models (RL4LLM) and Embodied AI.
 
 ## ✨ Recent Activities
 
-- I have recently written a survey on LLM Policy Gradient. [[PDF]](/files/202505-Survey-on-LLM-Policy-Gradient.pdf)
-- I make a Reinforcement Learning Notes website, based on the course [Mathmatical-Foundation-of-Reinforcement-Learning](https://www.bilibili.com/video/BV1sd4y167NS/) and the book [Reinforcement Learning An Introduction](http://incompleteideas.net/book/RLbook2020.pdf). [RL-Note](https://donglinkang2021.github.io/RL-Note/)
+- Completed a survey on LLM Policy Gradient. [[pdf]](/files/202505-Survey-on-LLM-Policy-Gradient.pdf)
+- Created a Reinforcement Learning Notes website. [[web]](https://donglinkang2021.github.io/RL-Note/)
 
 ## 📖 Education
 
-- 2021.08 - 2025.06, Undergraduate, Beijing Institute of Technology
+**PhD Student in Computer Science** | *Sep 2025 – Present*  
+Beijing Institute of Technology (BIT) & Shanghai Innovation Institute (SII)  🏢
+
+**Bachelor of Computer Science and Technology** | *Sep 2021 – Jun 2025*  
+Beijing Institute of Technology (BIT) 🏛️
 
 ## 📝 Publications
 
-- Li, Y., Wang, Q., Hao, Z., Hu, S., Wu, J.,  **Dong, L**. (2025). [IRAL: Robust and versatile UAV localization using infrared vision and altitude sensor fusion](https://www.sciencedirect.com/science/article/pii/S0263224124018025). Measurement, 242, 115917. [[PDF]](/files/202410-Measurement-IRAL.pdf) [[BIB]](/files/202410-Measurement-IRAL.bib)
+- Ye, Y., Tian, Y., Liu, C. H., **Dong, L**., Qi, G., & Wu, D. (2025). AoI-aware Air-Ground Mobile Crowdsensing by Multi-Agent Curriculum Learning with Collaborative Observation Augmentation. *IEEE Transactions on Mobile Computing*, (01), 1-13. [[link]](https://www.computer.org/csdl/journal/tm/5555/01/11051246/27RK801sYog) [[bib]](/files/202501-TMC-AoI.bib)
+- Li, Y., Wang, Q., Hao, Z., Hu, S., Wu, J.,  **Dong, L**. (2025). IRAL: Robust and versatile UAV localization using infrared vision and altitude sensor fusion. *Measurement*, 242, 115917. [[link]](https://www.sciencedirect.com/science/article/pii/S0263224124018025) [[bib]](/files/202410-Measurement-IRAL.bib)
 
 ## 🎈Experience & Awards
 
-<!-- 
-· 2021-2022 学年 北京理工大学机器人俱乐部灵动工场发起人之一
-· 2021-2022 学年 睿信书院学业指导中心 人力部干事
-· 2021-2022 学年 校级优秀学生（本科生） 北京理工大学
-· 2021-2022 学年 全国大学生光电设计竞赛 队长 二等奖
-· 2022-2023 学年 全国大学生数学竞赛 个人 一等奖 
-· 2022-2023 学年 信息与电子学院智能感知俱乐部 副部长 北京理工大学
-· 2023-2024 学年 中国智能机器人格斗及竞技大赛 队员 二等奖
-· 2023-2024 学年 华为云HCSD 校园大使
--->
-
-- 2021 – 2022, Co-founder, Lingdong Workshop (Robotics Club), Beijing Institute of Technology
-- 2021-2022, University-level Outstanding Student (Undergraduate), Beijing Institute of Technology
-- 2021-2022, [China National University Students’Opt-Sci-Tech Competition](https://baike.baidu.com/item/%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%85%89%E7%94%B5%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B/5929545), Team Leader, Second Prize
-- 2022-2023, [The Chinese Mathematics Competitions](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B/6287863), Individual, First Prize
-- 2022-2023, Deputy Director, Intelligent Sensing Club, School of Information and Electronics, Beijing Institute of Technology
-- 2023-2024, [China Intelligent Robot Fighting Competition, Team Member](http://robo-maker.org/), Second Prize
-- 2023-2024, [Huawei Cloud HCSD](https://zhuanlan.zhihu.com/p/657339225), Campus Ambassador
+- **2021-2022**: Co-founded Lingdong Workshop (Robotics Club) at BIT and received University Outstanding Student Award.
+- **2021-2022**: Led team to Second Prize in China National University Students' Opt-Sci-Tech Competition(全国大学生光电设计竞赛).
+- **2022-2023**: Won First Prize in Chinese Mathematics Competitions(全国大学生数学竞赛) and served as Deputy Director of Intelligent Sensing Club.
+- **2023-2024**: Participated in China Intelligent Robot Fighting Competition(中国智能机器人格斗及竞技大赛) with Second Prize and served as Huawei Cloud HCSD Campus Ambassador(校园大使).
 
 ## 📫 Contact Me
 
-Feel free to reach out and connect!
+<div align="center">
+  <img src="../images/wechat.jpg" alt="WeChat QR Code" width="200" style="border-radius: 8px;"/>
+  <p>🤗<em>Chat with me on WeChat!</em>😍</p>
+</div>
 
 <div align="center">
-<img src="../images/wechat.jpg" alt="WeChat QR Code" width="300"/>
+  <p>
+    📧 <a href="mailto:donglinkang2021@163.com">donglinkang2021@163.com</a> | 
+    🎓 <a href="https://scholar.google.com/citations?user=LsySnzwAAAAJ">Google Scholar</a> | 
+    💻 <a href="https://github.com/donglinkang2021">GitHub</a>
+  </p>
 </div>

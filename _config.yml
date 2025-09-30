@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Linkang Dong (董林康)"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Final year undergraduate student, like deep neural nets, focusing on RL4LLM and Embodied AI."
+  bio              : "First year PhD student, focusing on RL4LLM and Embodied AI."
   location         : "Beijing, China"
   employer         : "BIT, SII"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # to do
+  googlescholar    : "https://scholar.google.com/citations?user=LsySnzwAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-0407-9761"
   semantic         : # URL

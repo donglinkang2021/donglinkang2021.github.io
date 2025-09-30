@@ -23,8 +23,8 @@ main:
   - title: "Blogs"
     url: /blogs/
     
-  - title: "CV"
-    url: /files/CV.pdf
+  # - title: "CV"
+  #   url: /files/CV.pdf
     
   # - title: "CV"
   #   url: /cv-json/
