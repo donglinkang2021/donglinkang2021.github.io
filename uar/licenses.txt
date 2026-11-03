@@ -433,3 +433,5 @@ Copyright 2018- The Hugging Face team. All rights reserved.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+TiTok Figure 3: Yu et al., https://yucornetto.github.io/projects/titok.html . Author-project framework image, CC BY-SA 4.0; resized and encoded as WebP. The derivative image retains CC BY-SA 4.0. Independent UAR diagrams do not contain its photographs.
